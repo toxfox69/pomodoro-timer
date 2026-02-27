@@ -1,0 +1,8 @@
+{
+  "appId": "com.energenai.pomodorotimer",
+  "appName": "Pomodoro Timer",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": true
+  }
+}
